@@ -4,9 +4,9 @@
 <body>
 
 <p>I am normal</p>
-<p style="color:red;font-size:100px;">I am red</p>
-<p style="color:blue;">I am blue</p>
-<p style="font-size:50px;">I am big</p>
+<p style="color:red;font-size:100px;">yogik</p>
+<p style="color:blue;">dani</p>
+<p style="font-size:50px;">zen</p>
 
 </body>
 </html>
